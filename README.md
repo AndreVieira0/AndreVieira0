@@ -18,8 +18,3 @@ Estudante de Ciência da Computação na **Unifor**. Tenho interesse em entender
 
 ### Tecnologias:
 `TypeScript` | `Node.js` | `NestJS` | `Express` | `MySQL` | `React` | `React Native`
-
----
-
-### 📊 Linguagens mais usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVieira0&layout=compact&theme=dark&hide_border=true)](https://github.com/AndreVieira0/github-readme-stats)
