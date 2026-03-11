@@ -22,4 +22,4 @@ Estudante de Ciência da Computação na **Unifor**. Tenho interesse em entender
 ---
 
 ### 📊 Linguagens mais usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVieira0&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVieira0&layout=compact&theme=dark&hide_border=true)](https://github.com/AndreVieira0/github-readme-stats)
