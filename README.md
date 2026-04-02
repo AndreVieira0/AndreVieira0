@@ -46,24 +46,24 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-##  Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndreVieira0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVieira0&layout=compact&theme=tokyonight&hide_border=true" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreVieira0&theme=tokyonight)](https://github.com/AndreVieira0)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndreVieira0&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreVieira0&theme=tokyonight)](https://github.com/AndreVieira0)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreVieira0&theme=tokyonight)](https://github.com/AndreVieira0)
 
 </div>
 
 ---
 
-##  Projetos em destaque
+## 📌 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -74,7 +74,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-##  Atualmente estudando
+## 🌱 Atualmente estudando
 
 - Padrões avançados do NestJS (guards, interceptors, pipes)
 - Docker e deploy em containers
