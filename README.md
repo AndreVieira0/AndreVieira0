@@ -46,7 +46,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -74,7 +74,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 🌱 Atualmente estudando
+##  Atualmente estudando
 
 - Padrões avançados do NestJS (guards, interceptors, pipes)
 - Docker e deploy em containers
