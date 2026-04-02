@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou estudante de Ciência da Computação na **Unifor** (Fortaleza, CE), com interesse em entender o desenvolvimento de software por completo — do banco de dados até a interface final. Gosto de construir soluções eficientes e bem estruturadas, com código limpo e de qualidade.
 
@@ -20,7 +20,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 🚀 No que estou trabalhando
+##  No que estou trabalhando
 
 - **Web & Mobile** — Focado no ecossistema Node.js com React e React Native
 - **Back-end** — Construindo APIs com NestJS, Express e MySQL
@@ -28,7 +28,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -75,7 +75,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-## 🌱 Atualmente estudando
+##  Atualmente estudando
 
 - Padrões avançados do NestJS (guards, interceptors, pipes)
 - Docker e deploy em containers
