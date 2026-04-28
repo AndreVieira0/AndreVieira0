@@ -63,17 +63,6 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 
 ---
 
-##  Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**ride_fast**](https://github.com/AndreVieira0/ride_fast) | API backend inspirada em plataformas de transporte por aplicativo | Elixir, Phoenix |
-| [**Indice_Hash_estatico**](https://github.com/AndreVieira0/Indice_Hash_estatico) | Simulador de SGBD com interface gráfica, demonstrando impacto de performance entre Table Scan e Hash Index | Python |
-| [**Sistema-Client-Server-com-replica-o-e-Raft**](https://github.com/AndreVieira0/Sistema-Client-Server-com-replica-o-e-Raft) | Sistema distribuído Client-Server com replicação e eleição de líder via algoritmo Raft | Java |
-| [**rpa-checklist**](https://github.com/AndreVieira0/rpa-checklist) | Automação de exportação da plataforma Checklist Fácil para o Power BI | Python |
-
----
-
 ##  Atualmente estudando
 
 - Padrões avançados do NestJS (guards, interceptors, pipes)
